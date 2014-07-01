@@ -1,0 +1,10 @@
+/**
+ * Theme Name:  ewb_stargazer_child
+ * Version:     1.0
+ * Author:      Johannes
+ * License:     GNU General Public License v2.0 or later
+ * Template: stargazer
+ */
+ 
+ @import url('../stargazer/style.css');
+
